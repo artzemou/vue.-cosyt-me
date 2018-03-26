@@ -1,0 +1,52 @@
+{
+    "short_name": "",
+    "name": "",
+    "icons": [
+      {
+        "src": "",
+        "type": "image/png",
+        "sizes": "48x48"
+      },
+      {
+        "src": "",
+        "type": "image/png",
+        "sizes": "72x72"
+      },
+      {
+        "src": "",
+        "type": "image/png",
+        "sizes": "96x96"
+      },
+      {
+        "src": "",
+        "type": "image/png",
+        "sizes": "144x144"
+      },
+      {
+        "src": "",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "permissions": {
+      "audio-capture" : {
+        "description" : "Audio capture"
+      },
+      "speech-recognition" : {
+        "description" : "Speech recognition"
+      }
+    },
+    "type": "privileged",
+    "start_url": "index.html",
+    "background_color": "#FFFFFF",
+    "theme_color": "#FF9800",
+    "dir": "ltr",
+    "display": "standalone",
+    "orientation": "any",
+    "lang": "en"
+}
